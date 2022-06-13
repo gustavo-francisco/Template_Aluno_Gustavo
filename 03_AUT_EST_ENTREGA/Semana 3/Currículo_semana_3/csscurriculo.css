@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(238, 238, 238);
+    color: black;
+    font: normal 20pt Arial;
+}
+.info{
+    font: normal 12pt Arial;
+    text-align: center;
+}
+.corpo_a{
+    font: normal 15pt Arial;
+}
+.corpo_b{
+    font: normal 15pt Arial;
+}
+.corpo_c{
+    font: normal 15pt Arial;
+}
+
